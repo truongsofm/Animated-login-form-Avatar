@@ -8,6 +8,7 @@ Made an animated SVG login avatar. I've seen a couple of these recently, but bot
 
 
 
-# Alisher Tog'ayev
-  instagram - @sorry_but_im_monster<br>
-  telegram   -   @wlbr
+# TruongSOFM
+  instagram - @truongsofm<br>
+  twitter   -   @truongsofm
+  fb   -   @TranTuanTruong.Official
