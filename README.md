@@ -10,5 +10,5 @@ Made an animated SVG login avatar. I've seen a couple of these recently, but bot
 
 # TruongSOFM
   instagram - @truongsofm<br>
-  twitter   -   @truongsofm
+  twitter   -   @truongsofm<br>
   fb   -   @TranTuanTruong.Official
